@@ -3,7 +3,7 @@ A machine learning model for predicting elevator vibrations for Elevator mainten
 
 # Repository organisation
 vibration-prediction-docker/
-│- data/                # dataset : predictive-maintenance-dataset.csv
+│─ data/                # dataset : predictive-maintenance-dataset.csv
 │─ notebook/            # Jupyter Notebooks for Model Training, inference : elevator_predictive maintanance.ipynb
 │─ app/                 # Gradio UI implementation : app.py
 │─ docker/              # Dockerfile : Dockerfile
